@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 225bf8d33dd199d45b86f7f3328d5d24, type: 3}
+  m_Name: Glove
+  m_EditorClassIdentifier: 
+  icon: {fileID: 21300000, guid: db3722cca78b1c544ae47b50203d45b9, type: 3}
+  stackSize: 0
+  title: "\u62A4\u624B"
+  quality: 3
+  price: 0
+  armorType: 3
+  intellect: 5
+  strength: 10
+  stamina: 3

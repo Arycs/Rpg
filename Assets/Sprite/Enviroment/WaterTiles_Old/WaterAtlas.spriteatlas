@@ -1,0 +1,105 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: WaterAtlas
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+    variantMultiplier: 1
+    packables:
+    - {fileID: 2800000, guid: 827fca43685a05c448ff859dd296d79b, type: 3}
+    - {fileID: 2800000, guid: 921e696869d4a884ba3b2d38337ec5e4, type: 3}
+    - {fileID: 2800000, guid: d47a8b544f5a5604aa4ce01dce190437, type: 3}
+    - {fileID: 2800000, guid: 7c41cebe26b89bf48b7dd42578d87c15, type: 3}
+    - {fileID: 2800000, guid: 5aac6356ed6df734c9c192a8c20940e4, type: 3}
+    - {fileID: 2800000, guid: 485a99c1e7cf7a241a87fed5b2501760, type: 3}
+    - {fileID: 2800000, guid: 70a69c80f4a84bc4290c44afe3906683, type: 3}
+    - {fileID: 2800000, guid: c6ad6bb407815c044bffdec1276cee2c, type: 3}
+    - {fileID: 2800000, guid: 2104275c5584609499ac5b67fd41909c, type: 3}
+    - {fileID: 2800000, guid: 1ef520e150325c042a13f33c2d7851bc, type: 3}
+    - {fileID: 2800000, guid: a9fd620029a1ba0428f703d21cb80062, type: 3}
+    - {fileID: 2800000, guid: d351355e15b166044a98e911bc90f0b9, type: 3}
+    - {fileID: 2800000, guid: 356118b8ac642b643859bcf9cb51c765, type: 3}
+    - {fileID: 2800000, guid: 166ad309dd107cd43be390b2eb905395, type: 3}
+    - {fileID: 2800000, guid: d904fe5202b28544d965ae41c76d3156, type: 3}
+    - {fileID: 2800000, guid: 036da0a1201112d48a8620271ff8f1d9, type: 3}
+    - {fileID: 2800000, guid: 77d8118548442864a9e92d378f76e181, type: 3}
+    - {fileID: 2800000, guid: a5109064dde22324cbe8baf738df294c, type: 3}
+    - {fileID: 2800000, guid: 097a772c91a94d34f82ee78af8861c71, type: 3}
+    - {fileID: 2800000, guid: e515cf0f05daa84468a0a3f9b75859b0, type: 3}
+    - {fileID: 2800000, guid: 03b8379e8e8eec44bbbbd8748fefa24b, type: 3}
+    - {fileID: 2800000, guid: a171b4eeb694c0c418f800d98a95fb7a, type: 3}
+    totalSpriteSurfaceArea: 3520000
+    bindAsDefault: 1
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: a9fd620029a1ba0428f703d21cb80062, type: 3}
+  - {fileID: 21300000, guid: 70a69c80f4a84bc4290c44afe3906683, type: 3}
+  - {fileID: 21300000, guid: 036da0a1201112d48a8620271ff8f1d9, type: 3}
+  - {fileID: 21300000, guid: 485a99c1e7cf7a241a87fed5b2501760, type: 3}
+  - {fileID: 21300000, guid: 1ef520e150325c042a13f33c2d7851bc, type: 3}
+  - {fileID: 21300000, guid: d904fe5202b28544d965ae41c76d3156, type: 3}
+  - {fileID: 21300000, guid: 827fca43685a05c448ff859dd296d79b, type: 3}
+  - {fileID: 21300000, guid: d47a8b544f5a5604aa4ce01dce190437, type: 3}
+  - {fileID: 21300000, guid: a5109064dde22324cbe8baf738df294c, type: 3}
+  - {fileID: 21300000, guid: c6ad6bb407815c044bffdec1276cee2c, type: 3}
+  - {fileID: 21300000, guid: 77d8118548442864a9e92d378f76e181, type: 3}
+  - {fileID: 21300000, guid: 5aac6356ed6df734c9c192a8c20940e4, type: 3}
+  - {fileID: 21300000, guid: 921e696869d4a884ba3b2d38337ec5e4, type: 3}
+  - {fileID: 21300000, guid: 356118b8ac642b643859bcf9cb51c765, type: 3}
+  - {fileID: 21300000, guid: 166ad309dd107cd43be390b2eb905395, type: 3}
+  - {fileID: 21300000, guid: 097a772c91a94d34f82ee78af8861c71, type: 3}
+  - {fileID: 21300000, guid: 2104275c5584609499ac5b67fd41909c, type: 3}
+  - {fileID: 21300000, guid: d351355e15b166044a98e911bc90f0b9, type: 3}
+  - {fileID: 21300000, guid: 03b8379e8e8eec44bbbbd8748fefa24b, type: 3}
+  - {fileID: 21300000, guid: 7c41cebe26b89bf48b7dd42578d87c15, type: 3}
+  - {fileID: 21300000, guid: a171b4eeb694c0c418f800d98a95fb7a, type: 3}
+  - {fileID: 21300000, guid: e515cf0f05daa84468a0a3f9b75859b0, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - 10
+  - 6
+  - 15
+  - 5
+  - 9
+  - 14
+  - 0
+  - 2
+  - 17
+  - 7
+  - 16
+  - 4
+  - 1
+  - 12
+  - 13
+  - 18
+  - 8
+  - 11
+  - 20
+  - 3
+  - 21
+  - 19
+  m_Tag: WaterAtlas
+  m_IsVariant: 0

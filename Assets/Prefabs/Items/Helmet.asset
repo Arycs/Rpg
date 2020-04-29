@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 225bf8d33dd199d45b86f7f3328d5d24, type: 3}
+  m_Name: Helmet
+  m_EditorClassIdentifier: 
+  icon: {fileID: 21300000, guid: c5424d4eee461634390803c788622eb6, type: 3}
+  stackSize: 0
+  title: "\u5934\u76D4"
+  quality: 3
+  price: 0
+  armorType: 0
+  intellect: 15
+  strength: 5
+  stamina: 8
